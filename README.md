@@ -2,6 +2,7 @@
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 ## NAME : Keerthivasan K S
 ## REG NO : 212224230120
+## Date : 19/5/2026
 
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
